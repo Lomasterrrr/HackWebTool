@@ -5,7 +5,7 @@ CloudFlare bypass, Breacher, FindPerson, GeneratorIP
 Dependencies: **libcurl**
 ## Linux
 - git clone https://github.com/Lomasterrrr/HackWebTool.git
-- cd HackWebTool
+- cd HackWebTool-main
 - make
 - cd build
 
