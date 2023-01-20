@@ -7,33 +7,34 @@ Dependencies: **libcurl**
 - git clone https://github.com/Lomasterrrr/HackWebTool.git
 - cd HackWebTool
 - make
+- cd build
 
 ---------------------
 
 ## CloudFlare
 Options:
-- ./a.out -cfb **[file sub] [protocol] [domian]**
+- ./HackTool -cfb **[file sub] [protocol] [domian]**
 
 Example:
-- ./a.out -cfb other/sub.txt https:// google.com
+- ./HackTool -cfb other/sub.txt https:// google.com
 
 ## Breacher
 Options:
-- ./a.out -br **[file sub] [protocol] [domian]**
+- ./HackTool -br **[file sub] [protocol] [domian]**
 
 Example:
-- ./a.out -br other/path.txt https:// google.com
+- ./HackTool -br other/path.txt https:// google.com
 
 ## GenerateIP4
 Options:
-- ./a.out -gi4 **[count]**
+- ./HackTool -gi4 **[count]**
 
 Example:
-- ./a.out -gi4 10
+- ./HackTool -gi4 10
 
 ## FindPerson
 Options:
-- ./a.out -fp **[name]**
+- ./HackTool -fp **[name]**
 
 Example:
-- ./a.out -fp lomaster
+- ./HackTool -fp lomaster
