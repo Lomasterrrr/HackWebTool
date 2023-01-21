@@ -5,7 +5,7 @@ CloudFlare bypass, Breacher, FindPerson, GeneratorIP
 
 Dependencies: **libcurl**
 
-## Documentation
+## Document
 ```
   HackWebTool - by lomaster | OldTeam
 
