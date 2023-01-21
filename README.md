@@ -4,11 +4,8 @@
 CloudFlare bypass, Breacher, FindPerson, GeneratorIP
 
 Dependencies: **libcurl**
-## Linux
-- git clone https://github.com/Lomasterrrr/HackWebTool.git
-- cd HackWebTool-main
-- make
 
+## Documentation
 ```
   HackWebTool - by lomaster | OldTeam
 
@@ -24,3 +21,18 @@ Dependencies: **libcurl**
     optional arguments:
       -h, --help 
 ```
+## Examples
+```
+      CouldFlare bypass: ./HackTool -C -f pwd/sub.txt -P https -D google.com
+          
+      Breacher: ./HackTool -B -f pwd/path.txt -P https -D google.com
+          
+      FindPerson: ./HackTool -FP -n lomaster
+          
+      GeneratorIP4: ./HackTool -GI4 --count 10
+```
+
+## Linux
+- git clone https://github.com/Lomasterrrr/HackWebTool.git
+- cd HackWebTool-main
+- make
