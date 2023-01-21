@@ -8,32 +8,18 @@ Dependencies: **libcurl**
 - cd HackWebTool-main
 - make
 
----------------------
+```
+  HackWebTool - by lomaster | OldTeam
 
-## CloudFlare
-Options:
-- ./HackTool -cfb **[file sub] [protocol] [domian]**
+      CouldFlare bypass:
+          Usage: ./HackTool [-C] [-f path_file] [-P protocol] [-D domain]
+      Breacher:
+          Usage: ./HackTool [-B] [-f path_file] [-P protocol] [-D domain]
+      FindPerson:
+          Usage: ./HackTool [-FP] [-n, --name]
+      GeneratorIP4:
+          Usage: ./HackTool [-GI4] [--count]
 
-Example:
-- ./HackTool -cfb other/sub.txt https:// google.com
-
-## Breacher
-Options:
-- ./HackTool -br **[file sub] [protocol] [domian]**
-
-Example:
-- ./HackTool -br other/path.txt https:// google.com
-
-## GenerateIP4
-Options:
-- ./HackTool -gi4 **[count]**
-
-Example:
-- ./HackTool -gi4 10
-
-## FindPerson
-Options:
-- ./HackTool -fp **[name]**
-
-Example:
-- ./HackTool -fp lomaster
+    optional arguments:
+      -h, --help 
+```
