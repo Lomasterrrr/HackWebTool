@@ -33,6 +33,8 @@ Dependencies: **libcurl**
 ```
 
 ## Linux
-- git clone https://github.com/Lomasterrrr/HackWebTool.git
-- cd HackWebTool-main
-- make
+```
+  $ git clone https://github.com/Lomasterrrr/HackWebTool.git
+  $ cd HackWebTool-main
+  $ make
+```
