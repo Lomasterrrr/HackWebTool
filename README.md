@@ -7,7 +7,6 @@ Dependencies: **libcurl**
 - git clone https://github.com/Lomasterrrr/HackWebTool.git
 - cd HackWebTool-main
 - make
-- cd build
 
 ---------------------
 
