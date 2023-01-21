@@ -16,9 +16,13 @@ Dependencies: **libcurl**
           Usage: ./HackTool [-FP] [-n, --name]
       GeneratorIP4:
           Usage: ./HackTool [-GI4] [--count]
+      HttpGet:
+          Usage: ./HackTool [-HTTPg] [-D domain]
+      HttpPost:
+          Usage: ./HackTool [-HTTPp] [-D domain message]
 
     optional arguments:
-      -h, --help 
+      -h, --help            show this help message
 ```
 ## Examples
 ```
@@ -29,6 +33,10 @@ Dependencies: **libcurl**
       FindPerson: ./HackTool -FP -n lomaster
           
       GeneratorIP4: ./HackTool -GI4 --count 10
+      
+      HttpGet: ./HackTool -HTTPg -D google.com
+      
+      HttpPost: ./HackTool -HTTPp -D google.com Hi_google
 ```
 
 ## Linux
