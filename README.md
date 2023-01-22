@@ -43,5 +43,5 @@ Dependencies: **libcurl**
 ```
   $ git clone https://github.com/Lomasterrrr/HackWebTool.git
   $ cd HackWebTool-main
-  $ make
+  $ chmod +x run.sh
 ```
