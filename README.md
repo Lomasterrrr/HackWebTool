@@ -1,4 +1,4 @@
-![alt text](https://i.imgur.com/jZC8bvF.png)
+# Closed (check profile new soft)
 
 CloudFlare bypass, Breacher, FindPerson, GeneratorIP
 
